@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en" id="top" class="desktop">
+
+
+
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content="MR_DESIGN">
+	<meta name="description" content="MR_DESIGN is a design agency based in Tokyo. Simple, Clear, Bold.">
+	<meta name="google" value="notranslate">
+	<meta name="viewport" content="width=640">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta http-equiv="x-ua-compatible" content="IE=edge">
+	<meta property="og:title" content="MR_DESIGN">
+	<meta property="og:description" content="MR_DESIGN is a design agency based in Tokyo. Simple, Clear, Bold.">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://mr-design.jp/assets/images/ogimage.png">
+	<link rel="icon" href="https://mr-design.jp/assets/images/favicon.ico">
+	<link rel="stylesheet" href="/assets/css/pc/main.css?201703250151" media="(min-width: 769px)">
+	<link rel="stylesheet" href="/assets/css/sp/main.css?201703250151" media="(max-width: 768px)">
+	<title>MR_DESIGN</title>
+</head>
+
+
+
+<body>
+
+
+
+	<header class="">
+
+		<div class="hamburger"></div>
+		<div class="logo">
+			<a href="/" class="mouse-over-effect-strong">
+				<div class="mr-design"></div>
+				<div class="mr-design-ny"></div>
+			</a>
+		</div>
+
+		<ul class="menu">
+			<li><a href="/about/"><span class="text-effect" data-text="ABOUT">ABOUT</span></a></li>
+			<li><a href="/news/"><span class="text-effect" data-text="NEWS">NEWS</span></a></li>
+			<li><a href="/works/"><span class="text-effect" data-text="WORKS">WORKS</span></a></li>
+			<li><a href="/products/"><span class="text-effect" data-text="PRODUCTS">PRODUCTS</span></a></li>
+			<li><a href="/contact/"><span class="text-effect" data-text="CONTACT">CONTACT</span></a></li>
+		</ul>
+
+	</header>
+	<header class="invert">
+
+		<div class="hamburger"></div>
+		<div class="logo">
+			<a href="/" class="mouse-over-effect-strong">
+				<div class="mr-design"></div>
+				<div class="mr-design-ny"></div>
+			</a>
+		</div>
+
+		<ul class="menu">
+			<li><a href="/about/"><span class="text-effect" data-text="ABOUT">ABOUT</span></a></li>
+			<li><a href="/news/"><span class="text-effect" data-text="NEWS">NEWS</span></a></li>
+			<li><a href="/works/"><span class="text-effect" data-text="WORKS">WORKS</span></a></li>
+			<li><a href="/products/"><span class="text-effect" data-text="PRODUCTS">PRODUCTS</span></a></li>
+			<li><a href="/contact/"><span class="text-effect" data-text="CONTACT">CONTACT</span></a></li>
+		</ul>
+
+	</header>
+	<header class="invert-logo">
+
+		<div class="hamburger"></div>
+		<div class="logo">
+			<a href="/" class="mouse-over-effect-strong">
+				<div class="mr-design"></div>
+				<div class="mr-design-ny"></div>
+			</a>
+		</div>
+
+		<ul class="menu">
+			<li><a href="/about/"><span class="text-effect" data-text="ABOUT">ABOUT</span></a></li>
+			<li><a href="/news/"><span class="text-effect" data-text="NEWS">NEWS</span></a></li>
+			<li><a href="/works/"><span class="text-effect" data-text="WORKS">WORKS</span></a></li>
+			<li><a href="/products/"><span class="text-effect" data-text="PRODUCTS">PRODUCTS</span></a></li>
+			<li><a href="/contact/"><span class="text-effect" data-text="CONTACT">CONTACT</span></a></li>
+		</ul>
+
+	</header>
+	<header class="invert-menu">
+
+		<div class="hamburger"></div>
+		<div class="logo">
+			<a href="/" class="mouse-over-effect-strong">
+				<div class="mr-design"></div>
+				<div class="mr-design-ny"></div>
+			</a>
+		</div>
+
+		<ul class="menu">
+			<li><a href="/about/"><span class="text-effect" data-text="ABOUT">ABOUT</span></a></li>
+			<li><a href="/news/"><span class="text-effect" data-text="NEWS">NEWS</span></a></li>
+			<li><a href="/works/"><span class="text-effect" data-text="WORKS">WORKS</span></a></li>
+			<li><a href="/products/"><span class="text-effect" data-text="PRODUCTS">PRODUCTS</span></a></li>
+			<li><a href="/contact/"><span class="text-effect" data-text="CONTACT">CONTACT</span></a></li>
+		</ul>
+
+	</header>
+
+
+
+	<div id="main">
+
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/TOP_01.png"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/DAOKO_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1333"
+			width="2000"
+			height="1333"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_top-01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/1st_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/68bd1e5badd46ebd8db8702333a25f13.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/kusoyaro_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/9d0d230ac1377a4e18c9fe453b835208.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/0c389daa4cf6fe447f1a6e8640010e6b.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/de438ab8f0e2d6a58d19c3cde5dcd7ec.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/95824de73e0a41a43718da7d217a1afc.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/odomo_top_01-1.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1121"
+			width="2000"
+			height="1121"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/odomo_top_04.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1122"
+			width="2000"
+			height="1122"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/odomo_top_03.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1124"
+			width="2000"
+			height="1124"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/odomo_top_02.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1123"
+			width="2000"
+			height="1123"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/odomo_top_01-3.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1124"
+			width="2000"
+			height="1124"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/OHAYO_TOP_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/zeitaku_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/melon_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1124"
+			width="2000"
+			height="1124"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/tetsu_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1124"
+			width="2000"
+			height="1124"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/oishiku_top_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1123"
+			width="2000"
+			height="1123"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/ice_top_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1274"
+			width="2000"
+			height="1274"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/ice_top_02.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1274"
+			width="2000"
+			height="1274"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/oishiku_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1121"
+			width="2000"
+			height="1121"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/shakitama_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1356"
+			width="2000"
+			height="1356"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/niowa_top_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1356"
+			width="2000"
+			height="1356"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/nico_03.png"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1333"
+			width="2000"
+			height="1333"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/nico_01.png"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1494"
+			width="2000"
+			height="1494"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/748a00d22b675e058d1c59bdb824ef31.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/da8bf2b5e3c1dd7f52a789068c54dc39.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/smilecard_TOP.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/smilecard_poster_TOP1.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_TOP_0607-02.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_TOP_0607-01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/365_top_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1121"
+			width="2000"
+			height="1121"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/365_top_02.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1121"
+			width="2000"
+			height="1121"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/muse_top_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1121"
+			width="2000"
+			height="1121"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/muse_cm_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1145"
+			width="2000"
+			height="1145"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/GD2018_TOP_01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/GD2018_TOP_02.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/GD_OYAKO_TOP.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1151"
+			width="2000"
+			height="1151"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/GD_mirai_top.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_0726-03.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_0726-05.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_0726-04.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/WEB_0726-06.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/YOKOKU-01.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/b6f397ff1a3045946d55ba8780688442-1.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/e3ad492556124a9c3d2b5dc123cbc52a-1.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/037f7a7571dee711d2e170040388571f-1.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1127"
+			width="2000"
+			height="1127"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/037f7a7571dee711d2e170040388571f.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1127"
+			width="2000"
+			height="1127"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/2bbcf7d57f89a15a4f009f5f6beed754.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/4d3725220c553ae03a6694c67af856ff.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/0c33ffbfbbd0501806c9005e6579bfda.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1423"
+			width="2000"
+			height="1423"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/83cb838feee5b46539f2c87d32ab3501.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/f273ee15893cd0901031dd61657b9afe.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/98896a26ca96349e33eecddb776ff9db.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/Cut15s3.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/Cut30s4.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/Cut30s16.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/Cut15s54.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="1"
+			data-invert-menu="1"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/0cd7fd18a6897f683d1add6a2f6fd889.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1129"
+			width="2000"
+			height="1129"
+		>
+		<img
+			class="image"
+			data-src="/cms/wp-content/uploads/2017/03/2f1ef28cdb2a163186dcd87d21f60ea8.jpg"
+			data-align-horizontal="center"
+			data-align-vertical="middle"
+			data-invert-logo="0"
+			data-invert-menu="0"
+			data-width="2000"
+			data-height="1125"
+			width="2000"
+			height="1125"
+		>
+
+	</div>
+
+
+
+
+	<div id="sp-menu">
+
+		<div id="sp-menu-header">
+			<div class="close-menu"></div>
+			<div class="logo">
+				<a href="/" class="mouse-over-effect-strong">
+					<div class="mr-design"></div>
+					<div class="mr-design-ny"></div>
+				</a>
+			</div>
+		</div>
+
+		<ul class="menu">
+			<li><a href="/about/"><span class="text-effect" data-text="ABOUT">ABOUT</span></a></li>
+			<li><a href="/news/"><span class="text-effect" data-text="NEWS">NEWS</span></a></li>
+			<li><a href="/works/"><span class="text-effect" data-text="WORKS">WORKS</span></a></li>
+			<li><a href="/products/"><span class="text-effect" data-text="PRODUCTS">PRODUCTS</span></a></li>
+			<li><a href="/contact/"><span class="text-effect" data-text="CONTACT">CONTACT</span></a></li>
+		</ul>
+
+	</div>
+
+
+
+<script src="//fast.fonts.net/jsapi/2aff85a6-36ec-434f-9383-3c5afc0d129f.js"></script>
+<script src="/assets/js/main.js?201703250151"></script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-66678701-1', 'auto');
+	ga('send', 'pageview');
+</script>
+
+
+
+</body>
+</html>
